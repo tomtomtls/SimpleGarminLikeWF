@@ -1,0 +1,10 @@
+<fonts>
+	<font id="TimeFont" antialias="true" filename="titillium-web-bold-68-tall.fnt" filter="0123456789:AP"/>
+<!--	<font id="MinutesFont" antialias="true" filename="SFMoviePoster225.fnt"/> -->
+<!--	<font id="SecondsFont" filename="titillium-web-semibold-24.fnt" antialias="true" filter="0123456789AP"/> -->
+	<font id="DateFont" filename="titillium-web-semibold-20.fnt" antialias="true" filter=" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"/>
+	<font id="NormalFont" filename="titillium-web-semibold-16.fnt" antialias="true" filter="wamovezZ.0123456789!/% "/>
+<!--	<font id="NormalFontCities" filename="titillium-web-semibold-16.fnt" antialias="true" filter=" %',-.0123456789!:?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz°ÅÍÎÖáãäåæèéíðñóôöøûüž"/> -->
+	<font id="IconsFont" filename="icons-small.fnt" antialias="true"/>
+<!--		<font id="BatteryFont" filename="Battery35.fnt" antialias="true" filter="stuv"/> -->
+</fonts>
