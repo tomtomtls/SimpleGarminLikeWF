@@ -1,0 +1,10 @@
+<properties>
+    <property id="BackgroundColor" type="number">0x000000</property>
+    <property id="hoursColor" type="number">0x555555</property>
+    <property id="minutesColor" type="number">0xFFFFFF</property>
+    <property id="separatorColor" type="number">0x555555</property>
+    <property id="DDColor" type="number">0xFFFFFF</property>
+    <property id="dayColor" type="number">0xFFFFFF</property>
+    <property id="monthColor" type="number">0x555555</property>
+    <property id="screenSaverMode" type="boolean">false</property>
+</properties>
