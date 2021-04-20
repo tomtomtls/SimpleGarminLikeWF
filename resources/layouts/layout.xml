@@ -1,0 +1,5 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+	<drawable class="HoursMinutes" id="Time" />
+    <drawable class="DateLine" id="Date" />
+</layout>
